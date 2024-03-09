@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bqqfqpfrptad4"]
+
+[ext_resource type="Script" path="res://Game.cs" id="1_mvy27"]
+
+[node name="Game" type="Node2D"]
+script = ExtResource("1_mvy27")
+_chartPath = "D:\\idk\\Phigros铺\\Chart #2166.json"
+_musicPath = "D:\\idk\\Phigros铺\\music #1780.wav"
